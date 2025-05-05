@@ -1,9 +1,8 @@
-# Market-Basket-Analytics
+Market-Basket-Analytics
 
 A Market Basket Analytics project using Python and the Apriori algorithm
 
-Market Basket Analytics is a way for businesses to find out which products people often buy together. For example, if many customers buy bread and butter at the same time, the store can use that information to put them near each other or offer a discount on one when the other is bought.
-
+>>Market Basket Analytics is a way for businesses to find out which products people often buy together. For example, if many customers buy bread and butter at the same time, the store can use that information to put them near each other or offer a discount on one when the other is bought.
 This technique uses something called association rule mining, which helps find patterns in shopping behavior.It is commonly used in retail to improve product placement, marketing strategies, and recommendation systems.
 
 The three main terms used are:
